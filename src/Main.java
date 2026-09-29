@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//https://github.com/alfordz0405/-IdeaProjects.git
+
 public class Main {
     public static void main(String[] args) {
 
